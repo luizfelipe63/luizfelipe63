@@ -2,7 +2,7 @@
 
 ### Sobre mim:
 <p>💻 Entusiasta em Segurança da Informação</p>
-<p>📚 Cursando Análise e desevolvimento de sistemas</p> 
+<p>📚 Cursando Análise e desenvolvimento de sistemas</p> 
 
 <p align="center">
   <a href="https://github.com/luizfelipe63/">
