@@ -1,6 +1,9 @@
 ## Olá, Eu sou Luiz Felipe
 
 ### Sobre mim:
+
+<br>
+
 <p>💻 Entusiasta em Segurança da Informação</p>
 <p>📚 Cursando Análise e desenvolvimento de sistemas</p> 
 
@@ -19,18 +22,22 @@
     />
   </a>
  
-## Habilidades 
+### Habilidades:
+
+<br>
+
 </p>
-  
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   <img align="center" alt="luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="luiz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    
 </div>
   
-## Redes sociais  
+### Redes sociais: 
+
+<br>
+
 <div> 
   <a href="https://instagram.com/felipeluiz8a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Felipeluiz8a" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
