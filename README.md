@@ -1,19 +1,31 @@
 
 
-## Olá, Eu sou Luiz Felipe
+<h1 align="center">
+Olá, Eu sou Luiz Felipe
+</h1>
 
 ### Sobre mim:
 
-<br>
+<p>
+<em>Tenho 19 anos, e estou em busca da minha primeira oportunidade com desenvolvedor Front-End</em>
+</p>
 
-<p>💻 Entusiasta em Segurança da Informação</p>
-<p>📚 Cursando Análise e desenvolvimento de sistemas</p> 
+- Cursando Análise e desenvolvimento de sistemas
+- Atualmente estou estudando React e Typescript
+- Meu email: luizfepereira2@gmail.com 
+
+### Metas:
+
+- Realizar mais projetos para ampilar meu portfólio
+- Primeira oportunidade como dev Front-End
+- Me tornar um dev Full-Stack
+
 
 <p align="center">
   <a href="https://github.com/luizfelipe63/">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe63&layout=compact&langs_count=7&theme=nord"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe63&layout=compact&langs_count=7&theme=algolia"
     />
   </a>
   <a href="https://github.com/luizfelipe63/">
@@ -26,22 +38,19 @@
  
 ### Habilidades:
 
-<br>
-
 </p>
   <div style="display: inline_block">
-  <img align="center" alt="luiz-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="luiz-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="luiz-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="luiz-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="luiz-Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+  <img align="center" alt="luiz-Tailwindcss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />   
+  <img align="center" alt="luiz-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
           
 </div>
   
 ### Redes sociais: 
-
-<br>
 
 <div> 
   <a href="https://instagram.com/felipeluiz8a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
