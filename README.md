@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-Olá, Eu sou Luiz Felipe
+Olá, Eu sou o Luiz Felipe
 </h1>
 
 ### :boy: Sobre mim:
