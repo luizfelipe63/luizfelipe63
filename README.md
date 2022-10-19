@@ -4,7 +4,7 @@
 Olá, Eu sou Luiz Felipe
 </h1>
 
-### Sobre mim:
+### :boy: Sobre mim:
 
 <p>
 <em>Tenho 19 anos, e estou em busca da minha primeira oportunidade com desenvolvedor Front-End</em>
@@ -14,29 +14,34 @@ Olá, Eu sou Luiz Felipe
 - Atualmente estou estudando React e Typescript
 - Meu email: luizfepereira2@gmail.com 
 
-### Metas:
+### :dart: Metas:
 
 - Realizar mais projetos para ampilar meu portfólio
 - Primeira oportunidade como dev Front-End
 - Me tornar um dev Full-Stack
 
+<br>
 
 <p align="center">
-  <a href="https://github.com/luizfelipe63/">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe63&layout=compact&langs_count=7&theme=algolia"
-    />
-  </a>
+  
   <a href="https://github.com/luizfelipe63/">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=luizfelipe63&show_icons=true&theme=nord&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=luizfelipe63&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
     />
   </a>
+  
+  <a href="https://github.com/luizfelipe63/">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe63&layout=compact&langs_count=7&theme=github_dark"
+    />
+  </a>
+  
+<br>
  
-### Habilidades:
+### :zap: Habilidades:
 
 </p>
   <div style="display: inline_block">
@@ -50,7 +55,7 @@ Olá, Eu sou Luiz Felipe
           
 </div>
   
-### Redes sociais: 
+### :speech_balloon: Redes sociais: 
 
 <div> 
   <a href="https://instagram.com/felipeluiz8a" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
