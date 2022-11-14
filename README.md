@@ -28,14 +28,14 @@ Olá, Eu sou o Luiz Felipe
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=luizfelipe63&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=luizfelipe63&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"
     />
   </a>
   
   <a href="https://github.com/luizfelipe63/">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe63&layout=compact&langs_count=7&theme=github_dark"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfelipe63&layout=compact&langs_count=7&theme=codeSTACKr"
     />
   </a>
   
