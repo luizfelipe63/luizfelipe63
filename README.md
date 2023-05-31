@@ -6,9 +6,6 @@ Olá, Eu sou o Luiz Felipe
 
 ### :boy: Sobre mim:
 
-<p>
-<em>Tenho 19 anos, e estou em busca da minha primeira oportunidade com desenvolvedor Front-End</em>
-</p>
 
 - Cursando Análise e desenvolvimento de sistemas
 - Atualmente estou estudando React e Typescript
