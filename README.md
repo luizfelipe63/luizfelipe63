@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/luizfelipe63/luizfelipe63/blob/main/img/illustration.png" width="350"/>
+<img align="right" src="https://github.com/luizfelipe63/luizfelipe63/blob/main/img/illustration3.png" width="350"/>
 
 ### Hello, I'm Luiz Felipe
 [![Linkedin Badge](https://img.shields.io/badge/-Luiz%20Felipe-3060FF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-feliperocha/)](https://www.linkedin.com/in/luiz-feliperocha/)
